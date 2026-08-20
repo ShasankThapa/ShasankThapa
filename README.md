@@ -4,7 +4,7 @@ I am a Computer Science graduate aspiring to work within the technology field. I
 
 ---
 
-### 🛠️ What I've been building
+### 🛠️ A few projects I've enjoyed building
 
 - 🛒 **E-commerce Platform** — Team project. Led front-end development (home, product listing, product detail pages) and built web functionality in JavaScript; also coordinated task allocation across the team.
 - 🧭 **Path-Finding Visualizer** — Python/Pygame tool implementing and visualising Dijkstra, A*, Jump Point Search, and Bidirectional search on a weighted grid, with real-time animation of visited nodes and terrain costs (walls/mud).
